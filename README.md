@@ -1,2 +1,3 @@
 # design
-the image files for Starnight
+
+This repository contains the image files for Starnight. Be nice.
